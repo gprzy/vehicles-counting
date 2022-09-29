@@ -1,0 +1,17 @@
+{
+    "video_fps": 60,
+    "count_line_pos_init": [350, 10],
+    "count_line_pos_end": [350, 280],
+    "count_line_color": [255, 0, 0],
+    "count_line_thickness": 3,
+    "on_detec_count_line_color": [0, 0, 255],
+    "text_display": "Vehicles =",
+    "text_pos": [20, 40],
+    "text_color": [0, 0, 255],
+    "text_thickness": 2,
+    "text_fontscale": 1,
+    "rect_min_width": 80,
+    "rect_min_height": 80,
+    "pixel_offset": 6,
+    "save_output_path": "./output/vehicles1-detection.mp4"
+}

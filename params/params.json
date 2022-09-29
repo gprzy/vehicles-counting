@@ -1,0 +1,17 @@
+{
+    "video_fps": 60,
+    "count_line_pos_init": [60, 550],
+    "count_line_pos_end": [1200, 550],
+    "count_line_color": [255, 0, 0],
+    "count_line_thickness": 8,
+    "on_detec_count_line_color": [0, 0, 255],
+    "text_display": "Vehicles =",
+    "text_pos": [30, 70],
+    "text_color": [0, 0, 255],
+    "text_thickness": 5,
+    "text_fontscale": 2,
+    "rect_min_width": 80,
+    "rect_min_height": 80,
+    "pixel_offset": 6,
+    "save_output_path": ""
+}
