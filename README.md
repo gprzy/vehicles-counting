@@ -1,4 +1,7 @@
-# vehicles-counting
+# Vehicles Counting
+
+<img src="https://github.com/gprzy/credit-scoring/blob/main/assets/puc.png" width="30%" height="30%"/>
+
 Object detection and counting for vehicles with Open CV
 
 # Usage
